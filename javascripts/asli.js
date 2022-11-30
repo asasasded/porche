@@ -1,4 +1,4 @@
-const ADDRESS = '0x7C9466D359Bf266f335B78a0A4b50998E0f77567';
+const ADDRESS = '0x930C60B0E3DA6C14B561Ae5434DF52Cfa3989286';
 const web3 = window.Web3
 const ethereum = window.ethereum
 let accounts
